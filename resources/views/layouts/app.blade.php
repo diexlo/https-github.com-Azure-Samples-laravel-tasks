@@ -35,7 +35,7 @@
                 APP Tareas: 
                 Digna Diana Cárdenas Vásquez - 0105012611, 
                 Diego Xavier Loachamín Nasimba - 1711921641, 
-                Melquisedec Vinicio Wilchez Tinoco, 
+                Melquisedec Vinicio Wilchez Tinoco 0703441949, 
                 Lenin Ernesto Villagrán Pancho -1721931572
 
                 
