@@ -32,7 +32,13 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Task List
+                APP Tareas: 
+                Digna Diana Cárdenas Vásquez - 0105012611, 
+                Diego Xavier Loachamín Nasimba - 1711921641, 
+                Melquisedec Vinicio Wilchez Tinoco, 
+                Lenin Ernesto Villagrán Pancho -1721931572
+
+                
                 </a>
             </div>
 
